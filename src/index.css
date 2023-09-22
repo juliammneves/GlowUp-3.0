@@ -2888,7 +2888,11 @@ footer form button .enviar {
     
     footer form {
         margin-bottom: 50px;
-        width: 250px;
+        max-width: 275px;
+    }
+
+    footer .subscribeBox input {
+        width: 60%;
     }
 }
 
