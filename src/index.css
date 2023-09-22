@@ -2871,8 +2871,6 @@ footer form button .enviar {
         padding: 5px 0px 5px 10px;
     }
     
-
-
     footer form button {
         padding: 5px 10px;
         color: var(--header-color);
@@ -2886,6 +2884,11 @@ footer form button .enviar {
     footer form button .enviar {
         display: flex;
         font-size: 22px;
+    }
+    
+    footer form {
+        margin-bottom: 50px;
+        width: 250px;
     }
 }
 
