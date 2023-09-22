@@ -2782,7 +2782,6 @@ footer form {
     border: 2px solid var(--accent-color);
     gap: 5px;
     border-radius: 100px;
-    max-width: 360px;
 }
 
 footer .subscribeBox {
@@ -2840,7 +2839,6 @@ footer form button .enviar {
         padding: 5px 10px;
         color: var(--header-color);
         height: 40px;
-        width: 40px;
     }
 
     footer form button p {
@@ -2877,7 +2875,6 @@ footer form button .enviar {
         padding: 5px 10px;
         color: var(--header-color);
         height: 40px;
-        width: 40px;
     }
 
     footer form button p {
