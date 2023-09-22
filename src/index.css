@@ -2894,6 +2894,9 @@ footer form button .enviar {
     footer .subscribeBox input {
         width: 75%;
     }
+    footer .subscribeBox .icon {
+        margin: auto 10px auto 0;
+    }
 }
 
 /* Fim - footer */
